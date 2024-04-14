@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "Tipo_Documento": "CC",
+        "Nombre": "MARLON",
+        "Apellido": "MORALES",
+        "Fecha_Nacimiento": "23 JULIO 1996",
+        "Nivel_De_Estudios": "PREGRADO",
+        "Area": "SISTEMAS",
+        "Grado": "TERCER SEMESTRE",
+        "EPS": "SANITAS",
+        "salario": 2800000
+    
+    },
+    {
+        "id": 2,
+        "Tipo_Documento": "CC",
+        "Nombre": "YOLANDA",
+        "Apellido": "MACHADO",
+        "Fecha_Nacimiento": "24 MARZO 1997",
+        "Nivel_De_Estudios": "PREGRADO",
+        "Area": "CIENCIAS",
+        "Grado": "QUINTO SEMESTRE",
+        "EPS": "SANITAS",
+        "salario": 2800000
+    
+    }
+]
